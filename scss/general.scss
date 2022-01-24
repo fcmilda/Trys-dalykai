@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $bright;
+  color: $dark;
+  text-align: center;
+  font-family: "Segoe UI";
+  // overflow: auto;
+}
